@@ -35,7 +35,7 @@ Supports user authentication, account management, money transfers, and transacti
 ---
 
 ## Project Structure
-![Project Structure](assets/project_structure.png)
+![Project Structure](frontend/assets/project_structure.png)
 
 
 ---
